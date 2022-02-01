@@ -1,2 +1,5 @@
 # Process2Procedure
-Starting place of this project
+Start with a CSV file that has a list of apps
+Sort the lists into a menu 
+Assign the menu options that call functions.
+
